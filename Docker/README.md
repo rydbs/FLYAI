@@ -1,4 +1,4 @@
-<img width="957" alt="스크린샷 2023-07-16 오후 3 16 01" src="https://github.com/rydbs/FLYAI/assets/117563202/408ee65d-4815-419a-bfec-b4a835b62ced"># SKT FLY AI Challenger
+# SKT FLY AI Challenger
 ## Docker 실습
 - 2023.07.10 ~ 2023.07.14
 
