@@ -20,13 +20,14 @@
       <img width="1440" alt="스크린샷 2023-07-15 오후 10 28 48" src="https://github.com/rydbs/FLYAI/assets/117563202/14a9a515-082d-4208-bc27-9631ac23b613">
 
    4) 이후 커밋을 실행하면 자동적으로 테스트 실행 후 문제 없으면 커밋, 문제 발생 시 커밋 X
+
       [테스트 실패로 인한 커밋 오류]
       <img width="1440" alt="스크린샷 2023-07-15 오후 10 26 04" src="https://github.com/rydbs/FLYAI/assets/117563202/d7b892e4-4234-4ba3-83a7-59c6472e9659">
   
       [테스트 성공 후 커밋 완료]
       <img width="1440" alt="스크린샷 2023-07-15 오후 10 44 49" src="https://github.com/rydbs/FLYAI/assets/117563202/2b027af5-93c8-4625-a61d-de8348c8c675">
 
-   5) github action으로도 자동화 테스트 구축 가능
+   6) github action으로도 자동화 테스트 구축 가능
       ![carbon-10](https://github.com/rydbs/FLYAI/assets/117563202/0c9c3af8-822d-4f40-9b1b-efee894fffff)
       git repository에 상단의 yaml 파일 업로드 후 커밋 시 자동으로 테스트 이루어짐
       <img width="957" alt="스크린샷 2023-07-16 오후 3 16 01" src="https://github.com/rydbs/FLYAI/assets/117563202/54c44a5f-0b11-4ead-b2e6-51ef2b908e0a">
