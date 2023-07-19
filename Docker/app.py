@@ -6,4 +6,4 @@ def hello_world():
     return 'Welcome to my_web!'
 
 if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=) #port 번호 채우기
+    app.run(debug=True, host='0.0.0.0', port=3000) #port 번호 채우기
